@@ -33,6 +33,5 @@
 
 ## Диплом о прохождении курса
 
-![Feodor Zenkevitch_Data_Analyst_RU_Yandex_Practicum_20222DA00756_pic1](![image](https://github.com/BepeM/data_analyst_yandex_practicum/assets/147811826/249a5587-cd5d-42aa-bb1b-56de3fd9f06c)
-)
+![Feodor Zenkevitch_Data_Analyst_RU_Yandex_Practicum_20222DA00756_pic1](blob:https://web.telegram.org/39567bd9-749b-48d8-99d2-cda497da8e42)
 ![Feodor Zenkevitch_Data_Analyst_RU_Yandex_Practicum_20222DA00756_pic2](https://user-images.githubusercontent.com/117563470/206790329-dd8d96e8-3a86-47e6-936d-cda0bb2d5ca8.jpg)
